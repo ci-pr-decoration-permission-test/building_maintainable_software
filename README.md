@@ -1,4 +1,4 @@
-Building Maintainable Software
+Building Maintainable Software.
 ==========
 
 This is the example code that accompanies _Building Maintainable Software: Ten Guidelines for Future-Proof Code_ by Joost Visser.
