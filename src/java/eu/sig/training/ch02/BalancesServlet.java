@@ -1,3 +1,4 @@
+# comments
 package eu.sig.training.ch02;
 
 import java.io.IOException;
