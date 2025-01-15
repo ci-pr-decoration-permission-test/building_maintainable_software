@@ -17,7 +17,7 @@ jobs:
         with:
           customer: maximjanssen
           system: bms
-          convert: 
+          convert: rust
           publishonly: true
         env:
           SIGRID_CI_TOKEN: "${{ secrets.SIGRID_CI_TOKEN }}"
