@@ -15,7 +15,7 @@ jobs:
       - name: Sigrid CI
         uses: Software-Improvement-Group/sigridci@main
         with:
-          customer: maximjannsen
+          customer: maximjanssen
           system: bms
           publishonly: true
         env:
